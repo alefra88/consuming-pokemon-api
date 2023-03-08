@@ -1,3 +1,3 @@
 # consuming Pokemon API
 
-## 1. Render img from Pokemon API, images and paginations of pokemon API with ASYNC-AWAIT Fetch
+## 1. Rendering img from Pokemon API, loading images and paginations with ASYNC-AWAIT Fetch
